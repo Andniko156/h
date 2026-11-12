@@ -1,0 +1,1084 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\services\\implementations\\cbtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\services\\implementations\\cbtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\services\\interfaces\\icbtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\services\\interfaces\\icbtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\data\\repositories\\gardenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\data\\repositories\\gardenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\models\\dtos\\mooddtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\models\\dtos\\mooddtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\models\\viewmodels\\practiceinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\models\\viewmodels\\practiceinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\models\\viewmodels\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\models\\viewmodels\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\models\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\models\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|RecoveryWeb.Tests\\RecoveryWeb.Tests.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb.tests\\servicestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|RecoveryWeb.Tests\\RecoveryWeb.Tests.csproj|solutionrelative:recoveryweb.tests\\servicestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\controllers\\gardencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\controllers\\gardencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\views\\practice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\views\\practice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\views\\practice\\breathing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\views\\practice\\breathing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\views\\mood\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\views\\mood\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\views\\mood\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\views\\mood\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\views\\home\\crisis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\views\\home\\crisis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\views\\education\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\views\\education\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\views\\garden\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\views\\garden\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\views\\cbt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\views\\cbt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\controllers\\practicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\controllers\\practicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\controllers\\moodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\controllers\\moodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\data\\repositories\\moodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\data\\repositories\\moodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\services\\interfaces\\imoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\services\\interfaces\\imoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\services\\implementations\\moodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\services\\implementations\\moodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\data\\interfaces\\imoodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\data\\interfaces\\imoodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\controllers\\cbtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\controllers\\cbtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\data\\repositories\\thoughtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\data\\repositories\\thoughtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\recoveryweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\recoveryweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\data\\inmemoryidentitystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\data\\inmemoryidentitystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\data\\interfaces\\ithoughtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\data\\interfaces\\ithoughtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\data\\interfaces\\ipracticerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\data\\interfaces\\ipracticerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\data\\interfaces\\igardenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\data\\interfaces\\igardenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\services\\implementations\\gardenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\services\\implementations\\gardenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\services\\implementations\\practiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\services\\implementations\\practiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\services\\interfaces\\igardenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\services\\interfaces\\igardenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\services\\interfaces\\ipracticeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\services\\interfaces\\ipracticeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\models\\viewmodels\\educationarticleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\models\\viewmodels\\educationarticleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\models\\viewmodels\\cbtviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\models\\viewmodels\\cbtviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\models\\viewmodels\\gardenviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\models\\viewmodels\\gardenviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\models\\viewmodels\\moodviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\models\\viewmodels\\moodviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\models\\dtos\\thoughtdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\models\\dtos\\thoughtdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\models\\dtos\\gardendtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\models\\dtos\\gardendtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\models\\dtos\\practicedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\models\\dtos\\practicedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\recoveryweb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\recoveryweb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\data\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\data\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\data\\repositories\\practicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\data\\repositories\\practicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\models\\entities\\moodrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\models\\entities\\moodrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\models\\entities\\gardenprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\models\\entities\\gardenprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\models\\entities\\thoughtrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\models\\entities\\thoughtrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|c:\\users\\cgjn5\\source\\repos\\recoveryweb\\recoveryweb\\models\\entities\\practicesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929FE111-E77E-433C-9D21-C4BFCD85EEA6}|RecoveryWeb\\RecoveryWeb.csproj|solutionrelative:recoveryweb\\models\\entities\\practicesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "RecoveryWeb\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:18:49.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "RecoveryWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\appsettings.json",
+              "RelativeToolTip": "RecoveryWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-21T22:14:47.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "RecoveryWeb\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswMMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:31:41.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoodDtos.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\DTOs\\MoodDtos.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Models\\DTOs\\MoodDtos.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\DTOs\\MoodDtos.cs",
+              "RelativeToolTip": "RecoveryWeb\\Models\\DTOs\\MoodDtos.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA0wDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:40:24.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GardenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Repositories\\GardenRepository.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Data\\Repositories\\GardenRepository.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Repositories\\GardenRepository.cs",
+              "RelativeToolTip": "RecoveryWeb\\Data\\Repositories\\GardenRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwMkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:33:00.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RecoveryWeb\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwNoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T14:27:04.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICbtService.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Interfaces\\ICbtService.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Services\\Interfaces\\ICbtService.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Interfaces\\ICbtService.cs",
+              "RelativeToolTip": "RecoveryWeb\\Services\\Interfaces\\ICbtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:46:14.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CbtService.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Implementations\\CbtService.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Services\\Implementations\\CbtService.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Implementations\\CbtService.cs",
+              "RelativeToolTip": "RecoveryWeb\\Services\\Implementations\\CbtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:49:41.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Program.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Program.cs",
+              "RelativeToolTip": "RecoveryWeb\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAE4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:59:01.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\libman.json",
+              "RelativeDocumentMoniker": "RecoveryWeb\\libman.json",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\libman.json",
+              "RelativeToolTip": "RecoveryWeb\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-21T22:56:01.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PracticeInfoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\ViewModels\\PracticeInfoViewModel.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Models\\ViewModels\\PracticeInfoViewModel.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\ViewModels\\PracticeInfoViewModel.cs",
+              "RelativeToolTip": "RecoveryWeb\\Models\\ViewModels\\PracticeInfoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:55:01.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\ViewModels\\UserProfileViewModel.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Models\\ViewModels\\UserProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\ViewModels\\UserProfileViewModel.cs",
+              "RelativeToolTip": "RecoveryWeb\\Models\\ViewModels\\UserProfileViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:28:40.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDtos.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\DTOs\\UserDtos.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Models\\DTOs\\UserDtos.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\DTOs\\UserDtos.cs",
+              "RelativeToolTip": "RecoveryWeb\\Models\\DTOs\\UserDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:42:11.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "RecoveryWeb\\Services\\Implementations\\UserService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAiwIIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T14:01:39.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "RecoveryWeb\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:46:39.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServicesTests.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb.Tests\\ServicesTests.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb.Tests\\ServicesTests.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb.Tests\\ServicesTests.cs",
+              "RelativeToolTip": "RecoveryWeb.Tests\\ServicesTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwEoAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T22:08:13.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "RecoveryWeb\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-22T14:31:01.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RecoveryWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-22T13:52:14.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "RecoveryWeb\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-22T13:52:54.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "RecoveryWeb\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T14:37:28.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "RecoveryWeb\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-22T13:53:34.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GardenController.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Controllers\\GardenController.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Controllers\\GardenController.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Controllers\\GardenController.cs",
+              "RelativeToolTip": "RecoveryWeb\\Controllers\\GardenController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:51:16.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Practice\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Views\\Practice\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Practice\\Index.cshtml",
+              "RelativeToolTip": "RecoveryWeb\\Views\\Practice\\Index.cshtml",
+              "ViewState": "AgIAAM0CAAAAAAAAAAAiwPYCAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-22T13:56:18.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Breathing.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Practice\\Breathing.cshtml",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Views\\Practice\\Breathing.cshtml",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Practice\\Breathing.cshtml",
+              "RelativeToolTip": "RecoveryWeb\\Views\\Practice\\Breathing.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-22T13:56:58.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Mood\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Views\\Mood\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Mood\\Index.cshtml",
+              "RelativeToolTip": "RecoveryWeb\\Views\\Mood\\Index.cshtml",
+              "ViewState": "AgIAALoAAAAAAAAAAAAgwOMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-22T13:54:47.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Mood\\Details.cshtml",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Views\\Mood\\Details.cshtml",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Mood\\Details.cshtml",
+              "RelativeToolTip": "RecoveryWeb\\Views\\Mood\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T18:15:19.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RecoveryWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-22T13:53:55.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Crisis.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Home\\Crisis.cshtml",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Views\\Home\\Crisis.cshtml",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Home\\Crisis.cshtml",
+              "RelativeToolTip": "RecoveryWeb\\Views\\Home\\Crisis.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T17:49:20.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Education\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Views\\Education\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Education\\Index.cshtml",
+              "RelativeToolTip": "RecoveryWeb\\Views\\Education\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T17:42:51.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Garden\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Views\\Garden\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Garden\\Index.cshtml",
+              "RelativeToolTip": "RecoveryWeb\\Views\\Garden\\Index.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-22T13:55:20.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Cbt\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Views\\Cbt\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Cbt\\Index.cshtml",
+              "RelativeToolTip": "RecoveryWeb\\Views\\Cbt\\Index.cshtml",
+              "ViewState": "AgIAACEBAAAAAAAAAAAgwEoBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-22T13:57:48.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "RecoveryWeb\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-22T14:31:34.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PracticeController.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Controllers\\PracticeController.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Controllers\\PracticeController.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Controllers\\PracticeController.cs",
+              "RelativeToolTip": "RecoveryWeb\\Controllers\\PracticeController.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAA3wO8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:50:43.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MoodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Repositories\\MoodRepository.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Data\\Repositories\\MoodRepository.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Repositories\\MoodRepository.cs",
+              "RelativeToolTip": "RecoveryWeb\\Data\\Repositories\\MoodRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwv8MAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:25:55.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MoodController.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Controllers\\MoodController.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Controllers\\MoodController.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Controllers\\MoodController.cs",
+              "RelativeToolTip": "RecoveryWeb\\Controllers\\MoodController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAgwKoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T23:24:26.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IMoodService.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Interfaces\\IMoodService.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Services\\Interfaces\\IMoodService.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Interfaces\\IMoodService.cs",
+              "RelativeToolTip": "RecoveryWeb\\Services\\Interfaces\\IMoodService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:44:41.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MoodService.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Implementations\\MoodService.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Services\\Implementations\\MoodService.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Implementations\\MoodService.cs",
+              "RelativeToolTip": "RecoveryWeb\\Services\\Implementations\\MoodService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:47:33.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IMoodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Interfaces\\IMoodRepository.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Data\\Interfaces\\IMoodRepository.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Interfaces\\IMoodRepository.cs",
+              "RelativeToolTip": "RecoveryWeb\\Data\\Interfaces\\IMoodRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:24:39.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CbtController.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Controllers\\CbtController.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Controllers\\CbtController.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Controllers\\CbtController.cs",
+              "RelativeToolTip": "RecoveryWeb\\Controllers\\CbtController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:51:58.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RecoveryWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\RecoveryWeb.csproj",
+              "RelativeDocumentMoniker": "RecoveryWeb\\RecoveryWeb.csproj",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\RecoveryWeb.csproj",
+              "RelativeToolTip": "RecoveryWeb\\RecoveryWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-21T23:06:31.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EducationController.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Controllers\\EducationController.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Controllers\\EducationController.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Controllers\\EducationController.cs",
+              "RelativeToolTip": "RecoveryWeb\\Controllers\\EducationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:52:42.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "InMemoryIdentityStore.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\InMemoryIdentityStore.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Data\\InMemoryIdentityStore.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\InMemoryIdentityStore.cs",
+              "RelativeToolTip": "RecoveryWeb\\Data\\InMemoryIdentityStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T14:06:53.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ThoughtRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Repositories\\ThoughtRepository.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Data\\Repositories\\ThoughtRepository.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Repositories\\ThoughtRepository.cs",
+              "RelativeToolTip": "RecoveryWeb\\Data\\Repositories\\ThoughtRepository.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAWwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:34:03.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IPracticeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Interfaces\\IPracticeRepository.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Data\\Interfaces\\IPracticeRepository.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Interfaces\\IPracticeRepository.cs",
+              "RelativeToolTip": "RecoveryWeb\\Data\\Interfaces\\IPracticeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:30:10.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IGardenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Interfaces\\IGardenRepository.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Data\\Interfaces\\IGardenRepository.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Interfaces\\IGardenRepository.cs",
+              "RelativeToolTip": "RecoveryWeb\\Data\\Interfaces\\IGardenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:30:39.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IThoughtRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Interfaces\\IThoughtRepository.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Data\\Interfaces\\IThoughtRepository.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Interfaces\\IThoughtRepository.cs",
+              "RelativeToolTip": "RecoveryWeb\\Data\\Interfaces\\IThoughtRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:31:10.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GardenService.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Implementations\\GardenService.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Services\\Implementations\\GardenService.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Implementations\\GardenService.cs",
+              "RelativeToolTip": "RecoveryWeb\\Services\\Implementations\\GardenService.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAmwLIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:49:07.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PracticeService.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Implementations\\PracticeService.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Services\\Implementations\\PracticeService.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Implementations\\PracticeService.cs",
+              "RelativeToolTip": "RecoveryWeb\\Services\\Implementations\\PracticeService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:48:39.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IGardenService.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Interfaces\\IGardenService.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Services\\Interfaces\\IGardenService.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Interfaces\\IGardenService.cs",
+              "RelativeToolTip": "RecoveryWeb\\Services\\Interfaces\\IGardenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:45:46.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IPracticeService.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Interfaces\\IPracticeService.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Services\\Interfaces\\IPracticeService.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Services\\Interfaces\\IPracticeService.cs",
+              "RelativeToolTip": "RecoveryWeb\\Services\\Interfaces\\IPracticeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:45:20.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MoodViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\ViewModels\\MoodViewModel.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Models\\ViewModels\\MoodViewModel.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\ViewModels\\MoodViewModel.cs",
+              "RelativeToolTip": "RecoveryWeb\\Models\\ViewModels\\MoodViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:53:41.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GardenViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\ViewModels\\GardenViewModel.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Models\\ViewModels\\GardenViewModel.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\ViewModels\\GardenViewModel.cs",
+              "RelativeToolTip": "RecoveryWeb\\Models\\ViewModels\\GardenViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:54:08.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CbtViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\ViewModels\\CbtViewModel.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Models\\ViewModels\\CbtViewModel.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\ViewModels\\CbtViewModel.cs",
+              "RelativeToolTip": "RecoveryWeb\\Models\\ViewModels\\CbtViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:54:33.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EducationArticleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\ViewModels\\EducationArticleViewModel.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Models\\ViewModels\\EducationArticleViewModel.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\ViewModels\\EducationArticleViewModel.cs",
+              "RelativeToolTip": "RecoveryWeb\\Models\\ViewModels\\EducationArticleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:55:31.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ThoughtDtos.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\DTOs\\ThoughtDtos.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Models\\DTOs\\ThoughtDtos.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\DTOs\\ThoughtDtos.cs",
+              "RelativeToolTip": "RecoveryWeb\\Models\\DTOs\\ThoughtDtos.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:41:43.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GardenDtos.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\DTOs\\GardenDtos.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Models\\DTOs\\GardenDtos.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\DTOs\\GardenDtos.cs",
+              "RelativeToolTip": "RecoveryWeb\\Models\\DTOs\\GardenDtos.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:41:19.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PracticeDtos.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\DTOs\\PracticeDtos.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Models\\DTOs\\PracticeDtos.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\DTOs\\PracticeDtos.cs",
+              "RelativeToolTip": "RecoveryWeb\\Models\\DTOs\\PracticeDtos.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA6wCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:40:53.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RecoveryWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T23:23:02.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RecoveryWeb",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\RecoveryWeb.csproj",
+              "RelativeDocumentMoniker": "RecoveryWeb\\RecoveryWeb.csproj",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\RecoveryWeb.csproj",
+              "RelativeToolTip": "RecoveryWeb\\RecoveryWeb.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-21T22:54:55.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DatabaseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\DatabaseConfig.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Data\\DatabaseConfig.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\DatabaseConfig.cs",
+              "RelativeToolTip": "RecoveryWeb\\Data\\DatabaseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:23:22.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "PracticeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Repositories\\PracticeRepository.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Data\\Repositories\\PracticeRepository.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Repositories\\PracticeRepository.cs",
+              "RelativeToolTip": "RecoveryWeb\\Data\\Repositories\\PracticeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:32:21.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "MoodRecord.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\Entities\\MoodRecord.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Models\\Entities\\MoodRecord.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\Entities\\MoodRecord.cs",
+              "RelativeToolTip": "RecoveryWeb\\Models\\Entities\\MoodRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:19:38.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "GardenProgress.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\Entities\\GardenProgress.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Models\\Entities\\GardenProgress.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\Entities\\GardenProgress.cs",
+              "RelativeToolTip": "RecoveryWeb\\Models\\Entities\\GardenProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:20:44.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Data\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Data\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "RecoveryWeb\\Data\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:29:26.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ThoughtRecord.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\Entities\\ThoughtRecord.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Models\\Entities\\ThoughtRecord.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\Entities\\ThoughtRecord.cs",
+              "RelativeToolTip": "RecoveryWeb\\Models\\Entities\\ThoughtRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:21:22.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "PracticeSession.cs",
+              "DocumentMoniker": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\Entities\\PracticeSession.cs",
+              "RelativeDocumentMoniker": "RecoveryWeb\\Models\\Entities\\PracticeSession.cs",
+              "ToolTip": "C:\\Users\\cgjn5\\source\\repos\\RecoveryWeb\\RecoveryWeb\\Models\\Entities\\PracticeSession.cs",
+              "RelativeToolTip": "RecoveryWeb\\Models\\Entities\\PracticeSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:20:11.503Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
